@@ -3,7 +3,9 @@ Newsic is a user-friendly tool that delivers today's news in concise bullet poin
 
 ## Features
 **Real-Time News Updates**: Get the most recent headlines and articles.
+
 **Customizable Search**: Enter keywords or queries to retrieve news specific to your interests.
+
 **Bullet Point Summaries**: View news in a clear, digestible bullet point format.
 
 ## Set Up NewsAPI Key:
