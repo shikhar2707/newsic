@@ -14,7 +14,7 @@ warnings.filterwarnings("ignore")
 
 
 
-api_key = os.getenv('API_KEY','c18b4db5c23d4e5cbd40ea65392aad0e')
+api_key = os.getenv('API_KEY')
 
 
 
